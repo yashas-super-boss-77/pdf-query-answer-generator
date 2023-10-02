@@ -39,4 +39,4 @@ Before running the script, ensure you have the following dependencies installed:
 4. You can go through the pdf_query_answer_generator.ipynb file for more details
 
 Video demo of CLI is:
-
+https://www.youtube.com/watch?v=j51714XPRjo
