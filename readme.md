@@ -34,12 +34,7 @@ Before running the script, ensure you have the following dependencies installed:
 
 3. specify the path of pdf in the line 102 of pdf_query_answer_generator.py
 
-## TODO
-1. Adding subsequent querying
-2. comparing different models
-3. making a front end with Gradio
 
-## references
 
     python pdf_query_answer_generator.py
 
@@ -47,3 +42,10 @@ Before running the script, ensure you have the following dependencies installed:
 
 Video demo of CLI is:
 https://www.youtube.com/watch?v=j51714XPRjo
+
+## TODO
+1. Adding subsequent querying
+2. comparing different models
+3. making a front end with Gradio
+
+## references
