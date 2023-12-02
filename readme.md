@@ -34,6 +34,13 @@ Before running the script, ensure you have the following dependencies installed:
 
 3. specify the path of pdf in the line 102 of pdf_query_answer_generator.py
 
+## TODO
+1. Adding subsequent querying
+2. comparing different models
+3. making a front end with Gradio
+
+## references
+
     python pdf_query_answer_generator.py
 
 4. You can go through the pdf_query_answer_generator.ipynb file for more details
